@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MiraZzle</h1>
-<h3 align="center">A hobbyist game developer, opportunist web dev and a student!</h3>
+<h3 align="center">A hobbyist game developer, opportunistic web dev and a student!</h3>
 
 - 🌱 I’m currently learning **Python and React.js**
 
