@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MiraZzle</h1>
-<h3 align="center">A hobbyist game developer, opportunistic web dev and a student!</h3>
+<h3 align="center">A Hobbyist Game Developer, opportunistic Web Dev and a Student!</h3>
 
 - 🌱 I’m currently learning **Python and React.js**
 
 - 💬 Ask me about **anything Godot related**
 
-- ⚡ Fun fact **I will never touch C++**
+- ⚡ Fun fact **Co-programmed HATS!, Czech student Game of the Year 2022**
 
 <p align="left">
 </p>
