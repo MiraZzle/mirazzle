@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything Godot related**
 
-- ⚡ Fun fact: **I was a Programmer for <a href="https://klubyhernitvorby.itch.io/hats">HATS!</a>, Czech student Game of the Year 2022**
+- ⚡ Fun fact: **I was a Programmer for <a href="https://klubyhernitvorby.itch.io/hats">HATS!</a>, Czech Game of the Year 2022 in Student Category**
 
 <p align="left">
 </p>
