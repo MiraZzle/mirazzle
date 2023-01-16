@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MiraZzle</h1>
+<h1 align="center">Hi 👋👨‍💻, I'm MiraZzle</h1>
 <h3 align="center">A Hobbyist Game Developer, opportunistic Web Dev and a Student!</h3>
 
 - 🌱 I’m currently learning **Python and React.js**
