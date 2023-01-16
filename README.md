@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and React.js**
 
-- 💬 Ask me about **anything Godot related**
+- 💬 Ask me about **Anything Godot related**
 
 - ⚡ Fun fact: **I was a Programmer for <a href="https://klubyhernitvorby.itch.io/hats">HATS!</a>, Czech student Game of the Year 2022**
 
