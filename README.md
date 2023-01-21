@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👨‍💻, I'm MiraZzle</h1>
 <h3 align="center">A Hobbyist Game Developer, opportunistic Web Dev and a Student!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirazzle&label=Profile%20views&color=0e75b6&style=flat" alt="mirazzle" /> </p>
+
 - 🌱 I’m currently learning **Python and React.js**
 
 - 💬 Ask me about **Anything Godot related**
