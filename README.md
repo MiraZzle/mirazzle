@@ -2,7 +2,7 @@
 <h3 align="center">A Pseudo-Hobbyist Game Developer, Web Dev and a Student!</h3>
 <p align="center">
   
-- 🌱 I’m currently learning **Python and React.js**
+- 🌱 I’m currently learning **Python and C#**
 
 - 💬 Ask me about **Anything Godot related**
 
