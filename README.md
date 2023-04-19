@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matěj "MiraZzle" Foukal</h1>
+<h1 align="center">Hi 🧙‍♂️, I'm Matěj "MiraZzle" Foukal</h1>
 <h3 align="center">A Pseudo-Hobbyist Game Developer, Web Dev and a Student @MFF CUNI!</h3>
 <p align="center">
   
