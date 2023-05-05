@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🧙‍♂️, I'm Matěj Foukal</h1>
-<h3 align="center">A Pseudo-Hobbyist Game Developer, Web Dev and a Student @ MFF CUNI!</h3>
+<h3 align="center">A Hobbyist Game Developer, Web Dev and a Student @ MFF CUNI!</h3>
 <p align="center">
   
 - 🌱 I’m currently learning **Python and C#**
