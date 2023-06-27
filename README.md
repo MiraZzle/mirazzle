@@ -1,6 +1,6 @@
-<h1 align="center">Hi 🧙‍♂️, I'm Matěj Foukal</h1>
-<h3 align="center">A 'Hobbyist' Game Developer and a Student @ MFF CUNI!</h3>
-<p align="center">
+<h1 align="left">Hi 🧙‍♂️, I'm Matěj Foukal</h1>
+<h3 align="left">A 'Hobbyist' Game Developer and a Student @ MFF CUNI!</h3>
+<p align="left">
   
 - 🌱 I’m currently learning **Python and C#**
 
