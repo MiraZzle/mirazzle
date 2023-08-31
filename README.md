@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hojas</b> 🧙‍♂️, I’m Matěj Foukal</h1>
-<h3 align="center">A Hobbyist GameDev and CS Student</h3>
 <p align="left">
-  
-- ⚡ Fun fact: **I was 1 of 3 Programmers working on <a href="https://klubyhernitvorby.itch.io/hats">HATS!</a>, Czech Game of the Year 2021 (Student Category)**
-- 🫙 If you are into jams:  **<a href="https://mirazzle.itch.io">itch.io</a>**
 
 </p>
 
