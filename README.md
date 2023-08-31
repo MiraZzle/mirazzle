@@ -3,7 +3,7 @@
 <p align="left">
   
 - ⚡ Fun fact: **I was 1 of 3 Programmers working on <a href="https://klubyhernitvorby.itch.io/hats">HATS!</a>, Czech Game of the Year 2021 (Student Category)**
-- 🕹️ My half-baked Gamejam Attempts:  **<a href="https://mirazzle.itch.io">itch.io</a>**
+- 🫙 If you are into jams:  **<a href="https://mirazzle.itch.io">itch.io</a>**
 
 </p>
 
