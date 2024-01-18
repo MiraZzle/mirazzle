@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hojas</b> 🧙‍♂️, I’m Matěj Foukal</h1>
+<h1 align="left"><b>HOJAS</b> 🧙‍♂️, I’m Matěj Foukal!</h1>
 <p align="left">
 
 </p>
