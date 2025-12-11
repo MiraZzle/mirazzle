@@ -3,4 +3,3 @@
 📚 Studying Computer Science at Charles University, specializing in Data Engineering  
 💻 Frontend is my Guilty Pleasure  
 🚀 Working on **You'll find out 😉**  
-📫 Reach me at matej@foukalma.cz
